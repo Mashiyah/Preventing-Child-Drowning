@@ -16,8 +16,6 @@
     <a href="Code/DeBug_Version.ino">The Code</a>
     ·
     <a href="Book/ProjectBook.pdf">Final Project Book (Heb)</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">View Demo</a>
   </p>
 </p>
 
