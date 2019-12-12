@@ -35,7 +35,7 @@
 <!-- Introduction -->
 ## Introduction
 Within the last year of electrical engineering, we have developed a drowning prevention system for children and infants.
-The information presented here is the essence of the project. Literature survey, engineering design, results, demos, conclusions and much more can be found in a project book (Hebrew)
+The information presented here is the essence of the project. Literature survey, engineering design, results, demos, conclusions and much more can be found in a project book (Hebrew).
 
 ### Purpose
 Injuries and deaths from drowning, especially of infants and children, have become a sad routine in Israel and around the world. 
@@ -53,6 +53,10 @@ The electrical system includes a microcontroller, motor, power source, GSM compo
 When the child is at a certain depth for a predetermined amount of time, the electrical system will operate different mechanisms to save the child.<br /><br />
 A first mechanism and the main requirement of the system is the ability to raise the child's head above the water and keep it in this position. Responding to this requirement avoids contact with the airways leading to suffocation.<br /><br />
 A second mechanism is to send an emergency message (SMS) to a control center, where the event will operate, sending an SMS message back to the parents. This mechanism meets the requirement for parental attention. There is also a button to check the system's integrity. In response to a click, you will send an SMS with a detailed health report.
+
+<p align="center">
+  <img src="Images/3d.png" alt="3d" height="500" width="520">
+</p>
 
 ### Electronic Sketch (Schematic)
 Schematic of the electrical system in the project.<br />
