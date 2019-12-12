@@ -52,10 +52,9 @@ The system is for children aged 0-8 who cannot swim and should not enter the wat
 ### Main Requirements
 The system is responsible for identifying the drowning and operating the various mechanisms to save the child if necessary. 
 The electrical system includes a microcontroller, motor, power source, GSM component and various sensors that will monitor the depth of the child in the water. 
-When the child is at a certain depth for a predetermined amount of time, the electrical system will operate different mechanisms to save the child.
-A first mechanism and the main requirement of the system is the ability to raise the child's head above the water and keep it in this position. 
-Responding to this requirement avoids contact with the airways leading to suffocation. A second mechanism is to send an emergency message (SMS) to a control center, where the event will operate, sending an SMS message back to the parents. 
-This mechanism meets the requirement for parental attention. There is also a button to check the system's integrity. In response to a click, you will send an SMS with a detailed health report.
+When the child is at a certain depth for a predetermined amount of time, the electrical system will operate different mechanisms to save the child.<br /><br />
+A first mechanism and the main requirement of the system is the ability to raise the child's head above the water and keep it in this position. Responding to this requirement avoids contact with the airways leading to suffocation.<br /><br />
+A second mechanism is to send an emergency message (SMS) to a control center, where the event will operate, sending an SMS message back to the parents. This mechanism meets the requirement for parental attention. There is also a button to check the system's integrity. In response to a click, you will send an SMS with a detailed health report.
 
 ### Electronic Sketch (Schematic)
 Schematic of the electrical system in the project.<br />
