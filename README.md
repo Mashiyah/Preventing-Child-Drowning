@@ -102,7 +102,7 @@ As you can see in the following pictures, the system responds as expected and ac
 <!-- CONTACT -->
 ## Contact
  - :email: Ran.mash@gmail.com <br />
- - :information_source: [@linkedin](linkedin.com/in/ran-mashiyah)
+ - :information_source: [linkedin](linkedin.com/in/ran-mashiyah)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
